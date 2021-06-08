@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @leovietro
+- 👀 I’m interested in coding using Python!
+- 🌱 I’m currently learning Python 3.9
+- 📫 How to reach me: leonardo.vietro@hotmail.com
