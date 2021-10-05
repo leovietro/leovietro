@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @leovietro
-- 👀 I’m interested in coding using Python!
-- 🌱 I’m currently learning Python 3.9
+- 👀 I’m interested in coding using JavaScript and HTML!
+- 🌱 I’m currently learning Javascript, NodeJS and ReactJS
 - 📫 How to reach me: leonardo.vietro@hotmail.com
