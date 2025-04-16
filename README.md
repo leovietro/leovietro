@@ -1,6 +1,9 @@
-<b>Leonardo de Vietro</b>
+<b>
+  <h3>Leonardo de Vietro</h3>
+</b>
+<a href='https://www.linkedin.com/in/leonardo-de-vietro'>LinkedIn</a>
 <br>
-Contact: leonardo.vietro@hotmail.com
+<a href='mailto:leonardo.vietro@hotmail.com'>Contact me</a>
 <br>
 <br>
 Fullstack Developer based in Sao Paulo, Brazil.
